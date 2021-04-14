@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Echipa201</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="data_nasterii">Birthday:</string>
+    <string name="nume">First Name</string>
+    <string name="prenume">Last Name</string>
+    <string name="registerButton">Save</string>
+    <string name="invalid_register_error">Invalid value</string>
+    <string name="invalid_register_error1">Invalid year. It must be over 18.</string>
+    <string name="invalid_register_error2">Invalid First Name</string>
+    <string name="invalid_register_error3">Invalid Last Name.</string>
+    <string name="invalid_register_error4">Invalid Username.</string>
+    <string name="invalid_register_error5">Invalid password.</string>
+    <string name="users_registred">USERS REGISTRED</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+    <string name="weight">Weight</string>
+    <string name="add">ADD</string>
+    <string name="adress">Adress</string>
+    <string name="name_of_the_item">Name of the item</string>
+    <string name="rate_this_app">Rate this app:</string>
+    <string name="add_item_error_1">Invalid Item Name</string>
+    <string name="add_item_error_2">Invalid Weight</string>
+    <string name="register_password">Password</string>
+    <string name="register_username">Username</string>
+    <string name="progress">%1 $i / %2 i </string>
+    <string name="finish">finish</string>
+    <string name="minute">minutes and </string>
+    <string name="secunde"> seconds </string>
+    <string name="finish2">Time on our app: </string>
+    <string name="user">\"User: \"</string>
+    <string name="successfully">\" successfully logged in.\"</string>
+    <string name="CurrentPrice">\Current Price: \</string>
+    <string name="modify">MODIFY</string>
+    <string name="lv_row_default_value">-</string>
+    <string name="default_value">-</string>
+    <string name="auction_company_error_owner">Invalid Owner</string>
+    <string name="auction_company_error_name">Invalid Name</string>
+    <string name="invalid_user_pass">Invalid user/password.</string>
+    <string name="added_user">User added!</string>
+    <string name="list_of_users_back">Back</string>
+    <string name="show_users">Show Users</string>
+    <string name="background_main">background</string>
+    <string name="main_register">Register</string>
+    <string name="main_login">Login</string>
+    <string name="main_list_of_users">List of Users</string>
+    <string name="profile_detalis">Profile Details</string>
+    <string name="not_selected">Not Selected</string>
+    <string name="profile_male">Male</string>
+    <string name="profile_female">Female</string>
+    <string name="profile_gender">Gender</string>
+    <string name="profile_country">Country</string>
+    <string name="custom_spinner_text1">Test</string>
+    <string name="custom_spinner_text2">Test</string>
+    <string name="lv_row_users_lastname">LASTNAME</string>
+    <string name="lv_row_users_firstname">First Name:</string>
+    <string name="lv_row_users_firstname1">FIRSTNAME</string>
+    <string name="lv_row_users_lastname1">Last Name:</string>
+    <string name="emptystring" />
+    <string name="auction_name">Name</string>
+    <string name="auction_owner">Owner</string>
+    <string name="auction_category">Category</string>
+    <string name="auction_available_companies">Available Companies</string>
+    <string name="auction_clear">Clear</string>
+    <string name="company_owner">Owner</string>
+    <string name="company_name">Company Name</string>
+    <string name="company_category">Category</string>
+    <string name="itemname">ItemName</string>
+    <string name="euro">euro</string>
+    <string name="_20">20</string>
+    <string name="theres_a_total">There are a total of -</string>
+    <string name="users_regietered">- users registered.</string>
+    <string name="minutes_and">minutes and</string>
+    <string name="_5">5</string>
+    <string name="seconds">seconds</string>
+    <string name="you_rate_us_with">You rate us with</string>
+    <string name="stars">stars</string>
+    <string name="_2">2</string>
+    <string name="_1">1</string>
+    <string name="stars_image">stars_image</string>
+
+    <string-array name="countries">
+        <item>Romania</item>
+        <item>Bulgaria</item>
+        <item>Germany</item>
+        <item>Spain</item>
+        <item>United Kingdom</item>
+        <item>Greece</item>
+        <item>Italy</item>
+        <item>Russia</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="categories">
+        <item>Fashion</item>
+        <item>Electronics</item>
+        <item>Home and Garden</item>
+        <item>Sporting Goods</item>
+        <item>Motors</item>
+        <item>Others</item>
+    </string-array>
+
+</resources>
