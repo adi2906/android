@@ -1,9 +1,6 @@
 # android-app
 
-Some specifications:
-* working with databases ( Firebase + SQLite )
-* async operations ( getting data from a JSON online) 
-* Shared Preferences file
+
 
 
 ![image](https://user-images.githubusercontent.com/72071682/114760079-9f9d2380-9d67-11eb-9d09-96695fe7b3ec.png)
